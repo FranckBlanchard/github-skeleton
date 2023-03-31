@@ -1,0 +1,10 @@
+{
+  "name": "github-skeleton.sh",
+  "description": "Script Bash pour générer une arboresence de base pour un dépot github type.",
+  "authors": [
+    {
+      "name": "Franck Blanchard",
+      "email": "info@aztequemedia.com"
+    }
+  ]
+}
